@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbb46b0ac3728d04480b1fc1a0a61ce6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioS: {instanceID: 0}
+  - coverDisk: {instanceID: 0}
+  - diskCover_01: {instanceID: 0}
+  - diskCover_02: {instanceID: 0}
+  - diskCover_03: {instanceID: 0}
+  - diskCover_04: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
